@@ -1,4 +1,4 @@
-# Failed Banks Analysis
+# US Banks Failure Analysis
 #### Performing a simple analysis of data regarding all failed banks in the US since the year 2000.
 <br>
 
